@@ -13,4 +13,8 @@
 		</dependency>
 		
 	</dependencies>
+	
+	<build>
+		<final-name>BankAssignment</final-name>
+	<build>
 </project>

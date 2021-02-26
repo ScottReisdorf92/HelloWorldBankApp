@@ -15,6 +15,6 @@
 	</dependencies>
 	
 	<build>
-		<final-name>BankAssignment</final-name>
+		<finalName>BankAssignment</finalName>
 	<build>
 </project>
